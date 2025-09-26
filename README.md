@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChiaShengRong
 - 👀 I’m interested in AI LLM
-
-<!---
-ChiaShengRong/ChiaShengRong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently exploring cutting-edge AI models and research
+- 💻 I love coding, experimenting with AI, and sharing knowledge
+- 📫 You can reach me on [Zhihu](https://www.zhihu.com/people/91-60-60-13)
+- ⚡ Fun fact: I enjoy blending creativity with technology to solve real-world problems
